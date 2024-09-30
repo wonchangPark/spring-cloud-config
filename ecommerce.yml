@@ -3,4 +3,4 @@ token:
   secret: s3cr3tLongEnoughForJWTAuthentication0123456789!@#$%^&*()_+=-
 
 gateway:
-  ip: 192.168.0.6
+  ip: 192.168.0.70
