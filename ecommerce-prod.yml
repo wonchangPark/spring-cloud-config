@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret: s3cr3tLongEnoughForJWTAuthentication0123456789!@#$%^&*()prod
+
+gateway:
+  ip: 192.168.0.70
