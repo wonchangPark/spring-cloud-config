@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:h2:mem:testdb
     username: sa
-    password: '{cipher}f4683c14c6dc03775b75e9517499b68774298bb1772a43ecbeb77e64e0c48d21'
+    password: '{cipher}AQBqEYV04IYu7aPFFhyi/EpJ3Xl36J0fIceM9ljMq+6qxoZRwvFFYHb07hYpqJNqxsafDeJXsb8caDERbyzND/Q5mslyQHH3QFxXU3ExfrkeTgXz5Hr8x6ac1OruU8LirQ467OTtqcxD07ZwCo8ErDa3kqmINYWPloG32RZpaKf07D5ie0vCY5+qf8RAZMhjsQfTqo4h26vqeQBM2DczjXZmjrh5cSFMmhPWFId0fSNGU7nnI3W0IKfcX/zG2oH7g6TWvC/60x6MTlA0h3u+BbeclWJn+XnGu2+6TDPnHbV4zj+mrxIn/BXbVHFN8QhL9UAwby+gTNnof5z3cTfJCaEKjf5u3VS1jl+mBkTVG8PJkkkrxziOvxGGE+G1bY9CwGs='
 
 token:
   expiration_time: 86400000
